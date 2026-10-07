@@ -1,0 +1,6 @@
+{
+  "name": "Aristotle Academy CBT Engine",
+  "description": "Enterprise-grade Computer-Based Testing portal with anti-cheat monitoring, keyboard navigation, question palette, analytics, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
